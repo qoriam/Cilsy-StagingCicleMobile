@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS08-Invalid edit card name if title empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ca154ce-5269-4f5f-8774-4b2c0325532c</testCaseGuid>
+</TestCaseEntity>

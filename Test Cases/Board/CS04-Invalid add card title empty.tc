@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS04-Invalid add card title empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c180cc39-49df-43eb-b5f7-303ff8985d9f</testCaseGuid>
+</TestCaseEntity>

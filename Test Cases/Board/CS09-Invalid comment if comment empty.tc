@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS09-Invalid comment if comment empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16aaf9fd-3043-40ab-9bb1-5ad2d3c60f15</testCaseGuid>
+</TestCaseEntity>

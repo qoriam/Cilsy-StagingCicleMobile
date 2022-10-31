@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>If user typo email member group</description>
+   <name>CS29-Invalid mention group</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae2baf51-0639-428e-b97c-6ac66040c5e3</testCaseGuid>
+</TestCaseEntity>

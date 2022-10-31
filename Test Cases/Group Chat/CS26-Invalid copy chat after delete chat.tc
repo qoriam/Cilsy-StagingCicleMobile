@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS26-Invalid copy chat after delete chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24fadc6d-ba7a-4f3a-9467-81db8f7c4c33</testCaseGuid>
+</TestCaseEntity>

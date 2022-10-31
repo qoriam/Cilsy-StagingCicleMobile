@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CS28-Invalid send chat if moving page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40bf1a04-8c41-416d-b5ea-89589a0769ff</testCaseGuid>
+</TestCaseEntity>
